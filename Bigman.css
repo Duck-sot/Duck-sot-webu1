@@ -6,3 +6,18 @@ body{
     background-color: #181818;
     color: white;
 }
+
+.box{
+    height: 100px;
+    outline: solid red;
+    color: white;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+}
+#p1{
+    width: 500px;
+    position: absolute;
+    top: 150px;
+    left: 800px;
+}
